@@ -54,7 +54,4 @@ def ask():
         ans = f"You asked: '{q}' — I am Qonda AI LIVE from Durban! 🚀 I am working! Ask me about DNA, science, etc."
     return jsonify({"answer": ans})
 
-if __name__ == "__main__":
-    app.run()
-
 This one?
