@@ -21,7 +21,7 @@ button{padding:12px 25px;background:#00ff88;border:none;border-radius:10px;font-
 <p>From Durban to the World 🌍</p>
 <div class="box">
 <input id="q" placeholder="Ask Qonda anything... e.g. What is DNA?">
-<br><button onclick="ask()">Ask Qonda</button>
+<br><button onclick="ask()">send</button>
 <p id="a"></p>
 </div>
 <script>
